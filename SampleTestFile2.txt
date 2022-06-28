@@ -1,1 +1,4 @@
+git revert commit 1
+
 this is Sample File 2
+this is comparison lecture
